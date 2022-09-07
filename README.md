@@ -1,2 +1,2 @@
 # SOejercicio
-primer repositorio
+Esta es una actualización del archivo readme
