@@ -1,0 +1,2 @@
+# SOejercicio
+primer repositorio
